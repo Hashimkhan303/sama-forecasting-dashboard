@@ -209,7 +209,7 @@ jupyter notebook notebooks/04_forecasting.ipynb
 **Hashim Khan**
 
 - 🐙 GitHub: [Hashimkhan303](https://github.com/Hashimkhan303)
-- 💼 LinkedIn: *([paste your LinkedIn URL here](https://www.linkedin.com/in/hashim-khan-96b5082b4/))
+- 💼 LinkedIn: ([paste your LinkedIn URL here](https://www.linkedin.com/in/hashim-khan-96b5082b4/))
 - 🎓 Google Data Analytics Certificate
 - 🎓 Google Advanced Data Analytics Certificate
 
